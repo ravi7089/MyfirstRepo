@@ -1,3 +1,0 @@
-# MyfirstRepo
-***********************
-Github Tutorial
